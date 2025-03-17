@@ -53,13 +53,12 @@ This project enables **agentic workflows** for **resume analysis**. It parses a 
 
 ## 🛠️ Tech Stack  
 - 🐍 **Python**  
-- 🤗 **Hugging Face Transformers**  
-- 🏗️ **LangChain**  
+- 🤗 **LlamaIndex**   
 - 🧠 **LlamaParse**  
-- 🔍 **Vector Databases (FAISS / ChromaDB)**  
+- 🔍 **Vector Databases (VectorStoreIndex)**  
 - 🎤 **OpenAI Whisper (Voice Recognition)**  
-- ⚡ **FastAPI / Flask (Backend APIs)**  
-- 🎨 **Streamlit / Gradio (UI Components)**  
+- ⚡ **OpenAI API / Llama Cloud API**  
+- 🎨 **Gradio (UI Components)**  
 
 ---
 
@@ -67,5 +66,5 @@ This project enables **agentic workflows** for **resume analysis**. It parses a 
 
 ### 1️⃣ Clone Repository  
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/dhashyanth/Event-Driven-Resume-ChatAgent.git
+cd Event-Driven-Resume-ChatAgent
